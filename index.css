@@ -1,0 +1,143 @@
+* {
+    scroll-behavior: smooth;
+}
+.bg-container {
+    /* background-color: #191a1d; */
+    /* height: 100vh; */
+    background-size: cover;
+}
+
+.navbar-heading {
+    /* color: #ffffff !important; */
+    font-size: 24px;
+    /* border: 2px solid #000000; */
+    padding: 0px 12px;
+    font-weight: bold;
+}
+
+.nav-items {
+    color: #ffffff !important;
+}
+
+.nav-image {
+    width: 90%;
+    border-radius: 1rem;
+}
+
+.nav-main-heading {
+    font-size: 45px;
+    color: #ffffff;
+}
+
+
+/* #about, #gallery, #services, #testimonials {
+    margin-top: 120px;
+} */
+
+#home  {
+    /* height: 100vh; */
+    padding-top: 50px;
+}
+
+span {
+    font-size: 45px;
+    color: #000000;
+}
+
+
+
+.nav-main-paragraph {
+    font-size: 24px;
+    color: #9aa5b1;
+    color: #222222;
+}
+
+.nav-button {
+    width: 155px;
+    height: 60px;
+    color: #ffffff;
+    background-color: yellowgreen;
+    border-radius: 8px;
+    font-size: 20px;
+    border-color: transparent;
+    outline: none;
+}
+
+
+
+.protofolio-section-sub-heading {
+    font-size: 45px;
+    margin-top: 4rem;
+}
+
+.protofolio-paragraph {
+    font-size: 16px;
+}
+
+.protofolio-section-image {
+    border-radius: 1rem;
+}
+
+
+.protofolio-section-sub-image {
+    width: 70%;
+    height: 70%;
+}
+
+.protofolio-section-image-heading {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+
+
+
+.protofolio-bg-3 {
+   
+    border-radius: 8px;
+    
+
+}
+
+
+.protofolio-website-service-section {
+    background-color: #52606d;
+    padding: 10px;
+    margin-top: 30px;
+}
+
+.protofolio-website-service-section-main-heading {
+    font-size: 20px;
+    color: #cced00;
+    margin-top: 20px;
+}
+
+.protofolio-website-service-section-sub-heading {
+    font-size: 45px;
+    color: #ffffff;
+}
+
+.protofolio-website-service-section-bg-container {
+    background-color: #323f4b;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+.protofolio-website-service-section-image {
+    width: 60px;
+    height: 60px;
+}
+
+.protofolio-website-service-section-sub-heading-2 {
+    font-size: 24px;
+    color: #ffffff;
+}
+
+.protofolio-website-service-section-paragraph {
+    font-size: 24px;
+    color: #9aa5b1;
+}
+
+@media screen and (max-width:800px){
+
+}
